@@ -1,0 +1,3 @@
+# Ignore the rtems/prj directory
+rtems/prj/
+
