@@ -1,0 +1,6 @@
+[submodule "rtems/src/rsb"]
+	path = rtems/src/rsb
+	url = https://gitlab.rtems.org/rtems/tools/rtems-source-builder.git
+[submodule "rtems/src/rtems"]
+	path = rtems/src/rtems
+	url = https://gitlab.rtems.org/rtems/rtos/rtems.git
